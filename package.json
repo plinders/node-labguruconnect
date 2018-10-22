@@ -1,0 +1,22 @@
+{
+  "name": "labguruconnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "email-regex": "^3.0.0",
+    "jsdoc": "^3.5.5",
+    "lodash": "^4.17.10",
+    "querystring": "^0.2.0",
+    "request": "^2.87.0",
+    "tableify": "^1.1.0",
+    "yargs": "^12.0.2"
+  }
+}
